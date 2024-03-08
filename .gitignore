@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 out/
+.idea/sonarlint
 !**/src/main/**/out/
 !**/src/test/**/out/
 
